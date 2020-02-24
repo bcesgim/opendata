@@ -3,9 +3,9 @@
 ## Definir e implementar:
 
 * Enriquecer dataset de Plato lleno con info geográfica:
-	* brindar endpoint a alguna API (GeoPy, GeoPandas, etc)
+	* Brindar endpoint a alguna API (GeoPy, GeoPandas, etc)
 * Visualizar los datos
-	* definir herramientas (Seaborn, Data Studio, Tableau, etc)
+	* Definir herramientas (Seaborn, Data Studio, Tableau, etc)
 * Cruzar datos con información acerca de precios, barrios, etc
 	* Definir granularidad, métodos a usar, mapas de calor, etc
 * Definir serie de reglas para 'fichar' locales con mayor probabilidad de donar comida.
